@@ -1,5 +1,6 @@
 
 
+Olá eu sou Felipe, Estudante de Sistemas de Informação, focando atualmente em Front-end e UX/UI Designer
 
 🛠️GitHub Stats
 <div>
