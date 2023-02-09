@@ -1,8 +1,10 @@
 
 
-Olá eu sou Felipe, Estudante de Sistemas de Informação, focando atualmente em Front-end e UX/UI Designer
+Olá eu sou Felipe 👨‍💻 Estudante de Sistemas de Informação 
 
-🛠️GitHub Stats
+Focado atualmente em consegui um estagio 👨‍🎓
+
+
 <div>
   <a href="https://github.com/FelpSOL">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelpSOL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
