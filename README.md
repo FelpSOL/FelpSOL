@@ -1,6 +1,8 @@
 
 
-Olá eu sou Felipe 👨‍💻 Estudante de Sistemas de Informação 
+Olá eu sou Felipe 👋
+
+Estudante de Sistemas de Informação 👨‍💻
 
 Focado atualmente em consegui um estagio 👨‍🎓
 
